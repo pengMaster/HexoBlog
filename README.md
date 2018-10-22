@@ -9,22 +9,22 @@
 
 ```
 ├── src.package
-│   ├── mobile                 交互层  
+│   ├── mobile					交互层  
 │   ├── user              		用户
 │   ├── util               		工具
 │   ├── party-servlet.xml  		配置信息
 ├── WebRooot
-│   ├── about               	关于我
-│   ├── archives              	归档
-│   ├── article               	文章
-│   ├── css  					css样式
-│   ├── images               	图片
-│   ├── js              		js
-│   ├── lib               		jar			
-│   ├── save               		保存文章
-│   ├── tags              		标签
-│   ├── type               		分类
-│   ├── index.jsp 				首页
+│   ├── about					关于我
+│   ├── archives				归档
+│   ├── article					文章
+│   ├── css						css样式
+│   ├── images					图片
+│   ├── js						js
+│   ├── lib						jar			
+│   ├── save					保存文章
+│   ├── tags					标签
+│   ├── type					分类
+│   ├── index.jsp				首页
 
 ```
 
