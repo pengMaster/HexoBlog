@@ -10,9 +10,9 @@
 ```
 ├── src.package
 │   ├── mobile					交互层  
-│   ├── user              		用户
-│   ├── util               		工具
-│   ├── party-servlet.xml  		配置信息
+│   ├── user              				用户
+│   ├── util               				工具
+│   ├── party-servlet.xml  				配置信息
 ├── WebRooot
 │   ├── about					关于我
 │   ├── archives				归档
